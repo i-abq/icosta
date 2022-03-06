@@ -1,4 +1,3 @@
-# README
 Hey, I'm Ian! 👋<br>
 👨‍💻 Data Analyst enthusiast<br>
 🇧🇷 From Minas Gerais<br>
