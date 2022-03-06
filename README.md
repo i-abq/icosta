@@ -1,4 +1,4 @@
-Hey, I'm Ian! 👋<br>
+### Hey, I'm Ian! 👋<br>
 👨‍💻 Data Analyst enthusiast<br>
 🇧🇷 From Minas Gerais<br>
 📓 I like to write about technology on Medium<br>
